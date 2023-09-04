@@ -1,12 +1,16 @@
 name: "ollies-website"
 output_dir: "docs"
 navbar: 
-  title: "Ollies Website"
+  title: "Website"
   left:
     - text: "Home"
       href: index.html
     - text: "About"
       href: about.html
+    
+      
+      
+      
   
       
 
